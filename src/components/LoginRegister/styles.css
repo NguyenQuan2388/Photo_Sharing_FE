@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+    color: blue;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+}
